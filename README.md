@@ -13,6 +13,8 @@ a simple Soundcloud client
 The SoundCloud Client in React + Redux made with passion!
 Uses redux, redux-thunk, normalizr, react, lodash-fp, airbnb-extended eslint, enzyme and the Soundcloud API.
 
+comes with a [comprehensive guide](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) to get started.
+
 
 ##Clone Apps
 
@@ -31,9 +33,9 @@ Mortgage overpayment calculator using React, Redux and D3 4.0
 - [](https://github.com/benoitvallon/react-native-nw-react-calculator) http://benoitvallon.github.io/react-native-nw-react-calculator
 Mobile, desktop and website Apps with the same code
 This project shows how the source code can be architectured to run on multiple devices. As of now, it is able to run as:
-* iOS & Android Apps (based on react-native)
-* a Desktop App based on NW or based on Electron
-* a Website App in any browser (based on react)
+    * iOS & Android Apps (based on react-native)
+    * a Desktop App based on NW or based on Electron
+    * a Website App in any browser (based on react)
 
 ### This project uses libraries and tools like:
 * es6 syntax and babel
