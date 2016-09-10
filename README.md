@@ -2,7 +2,7 @@
 
 ##Real World Apps  
 
-- [it's quiz wall](https://github.com/WebbyLab/itsquiz-wall) itsquiz.com
+- [it's quiz wall](https://github.com/WebbyLab/itsquiz-wall) itsquiz.com  
 There are a lot of tutorials and boilerplates showing how to write isomorphic ReactJs applications. But when it comes to real world apps, you'll find that all the turorials do not cover problems that you face in productions apps.
 In [WebbyLab](https://webbylab.com) , we have a lot of projects written in react and several isomorphic projects. So, it was decides to develop one of these projects on github. So, everyone can see how real-world production isomorphic app can be implmemented.
 
@@ -37,13 +37,13 @@ This project shows how the source code can be architectured to run on multiple d
     * a Desktop App based on NW or based on Electron
     * a Website App in any browser (based on react)
 
-### This project uses libraries and tools like:
-* es6 syntax and babel
-* react for the Website App and Desktop App,
-* react-native for the iOS & Android Apps
-* NW to package the Desktop App
-* Electron to package the Desktop App
-* flux to organize the data flow management
-* css-loader to integrate the styles in the builds
-* grunt to create the builds
-* webpack to help during the development phase with hot reloading
+    ### This project uses libraries and tools like:
+    * es6 syntax and babel
+    * react for the Website App and Desktop App,
+    * react-native for the iOS & Android Apps
+    * NW to package the Desktop App
+    * Electron to package the Desktop App
+    * flux to organize the data flow management
+    * css-loader to integrate the styles in the builds
+    * grunt to create the builds
+    * webpack to help during the development phase with hot reloading
