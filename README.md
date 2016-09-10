@@ -36,7 +36,7 @@ This project shows how the source code can be architectured to run on multiple d
     * iOS & Android Apps (based on react-native)
     * a Desktop App based on NW or based on Electron
     * a Website App in any browser (based on react)
-    **This project uses libraries and tools like:**
+    **This project uses libraries and tools like:**  
     * es6 syntax and babel
     * react for the Website App and Desktop App,
     * react-native for the iOS & Android Apps
