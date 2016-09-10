@@ -9,14 +9,14 @@ Feel  free to Fork Project.
 
 ##Real World Apps  
 
-- [it's quiz wall](https://github.com/WebbyLab/itsquiz-wall) itsquiz.com  
+- [it's quiz wall](https://github.com/WebbyLab/itsquiz-wall)  -   itsquiz.com  
 There are a lot of tutorials and boilerplates showing how to write isomorphic ReactJs applications. But when it comes to real world apps, you'll find that all the turorials do not cover problems that you face in productions apps.
 In [WebbyLab](https://webbylab.com) , we have a lot of projects written in react and several isomorphic projects. So, it was decides to develop one of these projects on github. So, everyone can see how real-world production isomorphic app can be implmemented.
 
-- [Sound Redux](https://github.com/andrewngu/sound-redux)  soundredux.io  
+- [Sound Redux](https://github.com/andrewngu/sound-redux)  -   soundredux.io  
 a simple Soundcloud client
 
-- [FaveSound](https://github.com/rwieruch/favesound-redux) favesound.de  
+- [FaveSound](https://github.com/rwieruch/favesound-redux)  -  favesound.de  
 The SoundCloud Client in React + Redux made with passion!
 Uses redux, redux-thunk, normalizr, react, lodash-fp, airbnb-extended eslint, enzyme and the Soundcloud API.
 
@@ -25,19 +25,19 @@ comes with a [comprehensive guide](http://www.robinwieruch.de/the-soundcloud-cli
 
 ##Clone Apps
 
-- [https://github.com/echenley/react-news](React-News)  http://henleyedition.com/react-news/  
+- [https://github.com/echenley/react-news](React-News)  -   http://henleyedition.com/react-news/  
 This is a real-time Hacker News clone written using React, RefluxJS, and a Firebase backend.
 
 
 ##Experimental Apps
 
-- [Remember](https://github.com/paulhoughton/remember/) https://paulhoughton.github.io/remember/  
+- [Remember](https://github.com/paulhoughton/remember/)  -  https://paulhoughton.github.io/remember/  
 Offline web app to remember locations
 
-- [Mortgage](http://paulhoughton.github.io/mortgage/) http://paulhoughton.github.io/mortgage/  
+- [Mortgage](http://paulhoughton.github.io/mortgage/) -  http://paulhoughton.github.io/mortgage/  
 Mortgage overpayment calculator using React, Redux and D3 4.0
 
-- [](https://github.com/benoitvallon/react-native-nw-react-calculator) http://benoitvallon.github.io/react-native-nw-react-calculator  
+- [React Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator)  -  http://benoitvallon.github.io/react-native-nw-react-calculator  
 Mobile, desktop and website Apps with the same code
 This project shows how the source code can be architectured to run on multiple devices. As of now, it is able to run as:
     * iOS & Android Apps (based on react-native)
