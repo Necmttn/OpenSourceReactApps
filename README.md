@@ -1,4 +1,11 @@
 #List for Open Source React , Redux apps.
+This is a collection of open source apps built with React.JS library.
+
+Open source projects can be useful both for beginners to learn from reading code and for advanced programmers to save time by using existing code. 
+The aim of this collection is to let you pick great projects right away without having to spend hours of searching.
+Note that React UI components, boilerplates, tools and frameworks are separated out to make this curation specific to full-working apps built with React.
+
+Feel  free to Fork Project. 
 
 ##Real World Apps  
 
