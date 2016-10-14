@@ -19,8 +19,11 @@ a simple Soundcloud client
 - [FaveSound](https://github.com/rwieruch/favesound-redux)  -  https://favesound.de  
 The SoundCloud Client in React + Redux made with passion!
 Uses redux, redux-thunk, normalizr, react, lodash-fp, airbnb-extended eslint, enzyme and the Soundcloud API.
+Comes with a [comprehensive guide](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) to get started.
 
-comes with a [comprehensive guide](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) to get started.
+- [Monitaure.io](https://github.com/Bertrand31/Monitaure)  -  https://monitaure.io  
+A server monitoring progressive web app, made with React and Redux.
+It uses react, redux, react-router, a Service Worker and the Google Cloud messaging push API to send notifications to desktop computers and mobile phones, Babel and Webpack. Plus other fancy stuff.
 
 
 ##Clone Apps
