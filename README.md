@@ -1,4 +1,4 @@
-#List for Open Source React , Redux apps.
+# List for Open Source React , Redux apps.
 This is a collection of open source apps built with React.JS library.
 
 Open source projects can be useful both for beginners to learn from reading code and for advanced programmers to save time by using existing code. 
@@ -7,7 +7,7 @@ Note that React UI components, boilerplates, tools and frameworks are separated 
 
 Feel  free to Fork Project. 
 
-##Real World Apps  
+## Real World Apps  
 
 - [it's quiz wall](https://github.com/WebbyLab/itsquiz-wall)  -   https://itsquiz.com/  
 There are a lot of tutorials and boilerplates showing how to write isomorphic ReactJs applications. But when it comes to real world apps, you'll find that all the turorials do not cover problems that you face in productions apps.
@@ -26,13 +26,13 @@ A server monitoring progressive web app, made with React and Redux.
 It uses react, redux, react-router, a Service Worker and the Google Cloud messaging push API to send notifications to desktop computers and mobile phones, Babel and Webpack. Plus other fancy stuff.
 
 
-##Clone Apps
+## Clone Apps
 
 - [React-News](https://github.com/echenley/react-news)  -   http://henleyedition.com/react-news/  
 This is a real-time Hacker News clone written using React, RefluxJS, and a Firebase backend.
 
 
-##Experimental Apps
+## Experimental Apps
 
 - [Remember](https://github.com/paulhoughton/remember/)  -  https://paulhoughton.github.io/remember/  
 Offline web app to remember locations
@@ -45,8 +45,8 @@ Mobile, desktop and website Apps with the same code
 This project shows how the source code can be architectured to run on multiple devices. As of now, it is able to run as:
     * iOS & Android Apps (based on react-native)
     * a Desktop App based on NW or based on Electron
-    * a Website App in any browser (based on react)
-    **This project uses libraries and tools like:**  
+    * a Website App in any browser (based on react) . 
+    **This project uses libraries and tools like:**  
     * es6 syntax and babel
     * react for the Website App and Desktop App,
     * react-native for the iOS & Android Apps
